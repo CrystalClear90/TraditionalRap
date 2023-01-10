@@ -1,3 +1,3 @@
 # TraditionalRap
 Test Repo
-Nama Partner: LS ENGINE
+Nama Partner: LS7 ENGINE
